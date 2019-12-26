@@ -1,7 +1,7 @@
 # Lightweight gait based authentication technique for IoT using subconscious level activities
 This is pythond code for the paper work published in 2018 IEEE 4th World Forum on Internet of Things (WF-IoT). You can access to the paper through this [link](https://ieeexplore.ieee.org/document/8355210)
 
-##Prerequisites
+## Prerequisites
 - Language: Python
 - Required Packages: pandas, matplotlib, numpy, sklearn, scipy, tensorflow
 - To install the required packages except tensorflow, type the following command:
